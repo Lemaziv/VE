@@ -1,3 +1,4 @@
+// Codigo en uno solo por si falla el index.js
 // Define una función para calcular el sueldo con impuestos
 const calcularSueldoConImpuestos = (sueldoDiario) => {
     const IVA = 0.16;
